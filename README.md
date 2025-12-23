@@ -37,7 +37,7 @@ New signals do not affect already opened positions.
 A position can be closed in one of three ways:
 - take profit
 - stop loss
-- time elapsed
+- time elapsed (2 hours)
 
 Model output logs follow these rules:
 
